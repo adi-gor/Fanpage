@@ -1,2 +1,2 @@
 # fanpage
-the shop page for purchasing merch.
+a website for my one of my favorite band.
